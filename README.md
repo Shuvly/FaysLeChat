@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am Fays, a 14-year-old student developer. I love programming desktop apps but i code some other things like plugins on Minecraft. I play very much too :)</h3>
+<h3 align="center">I am Fays, a 14-year-old student developer. I love programming desktop apps but i code some other things like plugins on Minecraft or Discord bots. I play very much too :)</h3>
 
 - 🔭 I’m currently working on my discord bot ([join it here :p](https://discord.gg/5UK3AsyX2A))
 
