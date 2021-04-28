@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I am Fays, a 14-year-old student developer. I love programming desktop apps but i code some other things like plugins on Minecraft. I play very much too :)</h3>
 
-- 🔭 I’m currently working on [TimeCounter](http://time-counter.pod-tools.tech)
+- 🔭 I’m currently working on my discord bot ([join it here :p](https://discord.gg/5UK3AsyX2A))
 
 - 🌱 I’m currently learning **C++, mostly the Qt framework**
-
-- 👯 I’m collaborating with [POD](https://github.com/POD-Power-Of-Development)
 
 - 📫 How to contact me ? **fays@pod-tools.tech**
 
