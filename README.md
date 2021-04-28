@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on my discord bot ([join it here :p](https://discord.gg/5UK3AsyX2A))
 
-- 🌱 I’m currently learning **C++, mostly the Qt framework**
+- 🌱 I’m currently learning **C++ (mostly the Qt framework) and JavaScript (mostly the discord.js framework)**
 
-- 📫 How to contact me ? **fays@pod-tools.tech**
+- 📫 How to contact me ? **fayslechat@gmail.com**
 
 - ⚡ Fun fact : **I love cats 🐈**
 
