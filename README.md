@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am Fays, a 14-year-old student developer. I love programming desktop apps but i code some other things like plugins on Minecraft or Discord bots. I play very much too :)</h3>
+<h3 align="center">I am Shuvly, a 15-year-old student developer. I love programming desktop apps but i code some other things like plugins on Minecraft or Discord bots. I play very much too :)</h3>
 
 - 🔭 I’m currently working on my discord bot ([join it here :p](https://discord.gg/5UK3AsyX2A))
 
-- 🌱 I’m currently learning **C++ (mostly the Qt framework) and JavaScript (mostly the discord.js framework)**
+- 🌱 I’m currently learning **Kotlin (android apps)**
 
-- 📫 How to contact me ? **fayslechat@gmail.com**
+- 📫 How to contact me ? **shuvlyy@gmail.com**
 
 - ⚡ Fun fact : **I love cats 🐈**
 - I'm new to GitHub and I will release some of my programs soon :)
@@ -18,8 +18,8 @@
 
 <h3 align="left">My social networks :</h3>
 <p align="left">
-<a href="https://discord.gg/Fays#0261" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Fays#0261" height="30" width="40" /></a>
-<a href="https://twitter.com/fayslechat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fayslechat" height="30" width="40" /></a>
+<a href="https://discord.gg/Shuvly やあ#0603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Shuvly やあ#0603" height="30" width="40" /></a>
+<a href="https://twitter.com/Shuvlyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shuvly" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fayslechat&show_icons=true&locale=en" alt="fayslechat" /></p>
